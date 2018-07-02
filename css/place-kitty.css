@@ -11,12 +11,12 @@ kitty-1 {
 /* Select the image with id of kitty-2 */
 
 /*__write_selector_here__*/
-/*kitty-2 {*/
-/*  position: absolute;*/
-/*  z-index: 2;*/
-/*  top: 212px;*/
-/*  left: 369px;*/
-/*}*/
+kitty-2 {
+  position: absolute;
+  z-index: 2;
+  top: 212px;
+  left: 369px;
+}
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
